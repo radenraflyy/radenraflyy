@@ -7,11 +7,11 @@ Hi, I'm Rafly 👋
 Raden Rafly Pradana Kusumah
 Building web applications, backend services, and the infrastructure behind them.
 
-<a href="https://www.linkedin.com/in/raden-rafly-pradana-kusumah-108334220"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:radenraflypradanakusumah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Rafly" /></a>
-<a href="https://raflypradana.my.id">
+<a href="https://www.linkedin.com/in/raden-rafly-pradana-kusumah-108334220" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:radenraflypradanakusumah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Rafly" /></a>
+<a href="https://raflypradana.my.id" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=radenraflyy&amp;color=38BDF8&amp;style=for-the-badge&amp;label=Profile+Views" alt="Profile view counter" />
-</a>Ï
+</a>
 
 </div>
 
