@@ -1,150 +1,202 @@
-<h1 align="center">Hi, I'm Rafly 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full Stack Software Developer</strong><br>
-  Golang · TypeScript / React · DevOps &amp; Infrastructure
-</p>
+Hi, I'm Rafly 👋
 
-<p align="center">
-  From APIs and interfaces to deployment and monitoring.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Full-Stack+Software+Developer%3BGolang+%2B+TypeScript+%2B+React%3BBanking+Systems+%2B+DevOps%3BFrom+APIs+to+production" width="760" alt="Rafly — Full-Stack Software Developer | Golang, TypeScript, React and DevOps" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raden-rafly-pradana-kusumah-108334220"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect with Rafly on LinkedIn"></a>
-  <a href="mailto:radenraflypradanakusumah@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-334155?style=for-the-badge" alt="Email Rafly"></a>
-</p>
+Raden Rafly Pradana Kusumah
+Building web applications, backend services, and the infrastructure behind them.
 
-About me
+<a href="https://www.linkedin.com/in/raden-rafly-pradana-kusumah-108334220"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:radenraflypradanakusumah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Rafly" /></a>
+<img src="https://komarev.com/ghpvc/?username=radenraflyy&amp;color=38BDF8&amp;style=for-the-badge&amp;label=Profile+Views" alt="Profile view counter" />
 
-I'm Raden Rafly Pradana Kusumah, a full-stack developer based in Bogor, Indonesia, with 3+ years of experience building applications for digital banking, property platforms, and internal business operations.
+</div>
 
-My work spans backend APIs, web and mobile interfaces, database optimization, authentication, and production infrastructure. I work with cross-functional teams to turn business requirements into software that can be deployed, maintained, and improved.
+👋 About Me
 
-Backend: Go and Node.js services, REST APIs, transactions, queues, and payment integrations.
+I'm Raden Rafly Pradana Kusumah — call me Rafly. I'm a Full-Stack Software Developer with 3+ years of experience working on digital banking, property platforms, and internal business applications.
 
-Frontend: React, Next.js, and TypeScript interfaces for customer-facing products and internal tools.
+My work connects Go and Node.js backends, React and TypeScript interfaces, and production infrastructure. I enjoy solving the problems between those layers: authentication, slow queries, background processing, and reliable deployments.
 
-Security: SSO, RBAC, MFA, rate limiting, and sensitive-data masking.
+🏦 Developing banking and internal applications at PT. BPR Syariah Amani Mulia Indonesia.
 
-Operations: Docker, CI/CD pipelines, Linux servers, and application monitoring.
+🛠️ Working across frontend, backend, mobile, and DevOps.
 
-Selected engineering work
+🔐 Building with SSO, RBAC, MFA, API security, and transactional consistency.
 
-🏦 BTN SMART — Application modernization & security
+🤝 Collaborating with design, product, business analysts, and QA from requirements through UAT and deployment.
 
-Contributed to an internal banking application with a focus on frontend modernization and secure workflows.
+📍 Based in Bogor, Indonesia.
 
-Migrated CRA to Vite and JavaScript to TypeScript; reduced build time by approximately 90%.
+🚀 Engineering Highlights
 
-Implemented MFA, OTP controls, and reusable API rate limiting.
+⚡ 90% faster builds after a CRA-to-Vite migration, alongside a JavaScript-to-TypeScript migration for BTN SMART.
 
-Built an export approval workflow with password protection and background jobs; reduced server load by up to 30%.
+📦 Up to 30% lower server load through queued processing for an export approval workflow.
 
-Integrated code-quality checks and containerized the frontend.
+🗄️ 40% higher database write throughput using native SQL bulk inserts in Go.
 
-Stack: React · TypeScript · Ant Design · Laravel · SQL Server · Redis · Docker
+💳 Integrated Xendit payment flows supporting 1,000+ transactions per month in a property CRM.
 
-🔐 Amani Bank — Internal platforms & banking infrastructure
+🔎 Reduced slow queries by up to 35% through code and database optimization.
 
-Developed internal services and contributed to mobile banking and Back Office applications.
+🔐 Implemented MFA, reusable rate limiting, SSO integrations, and role-based access controls.
 
-Built centralized authentication integrations and role-based access controls.
+🐳 Delivered containerized deployments, CI/CD pipelines, and monitoring, with participation in disaster-recovery simulations.
 
-Developed e-Doc for centralized document storage, access, and workflows.
+🧩 Selected Projects
 
-Improved bulk-write throughput by 40% using native SQL in Go.
+Project
 
-Used database transactions and rollback to prevent partial batch writes.
+My contributions
 
-Contributed to infrastructure migration, monitoring, and disaster-recovery simulations.
+Core technologies
 
-Stack: Go · React · Next.js · TypeScript · PostgreSQL · Docker · Jenkins · Prometheus · Grafana
+BTN SMART
 
-🏘️ Home Buyer & Home Owner — Property platforms
+Frontend modernization, MFA, export approvals, background jobs, and API rate limiting
 
-Established frontend architecture and designed database structures.
+React, TypeScript, Laravel, SQL Server, Docker
 
-Integrated Xendit into a CRM payment flow supporting 1,000+ transactions per month.
+e-Doc
 
-Implemented Server-Sent Events for real-time updates and cross-session login handling.
+Centralized document handling, access controls, and internal workflows
 
-Contributed to Core Banking / BackOffice refactoring and query optimization, reducing slow queries by up to 35%.
+Next.js, TypeScript, PostgreSQL, Docker
 
-Stack: React · Next.js · TypeScript · Go / Gin · PostgreSQL · SSE · Xendit
+SSO Service
 
-🌐 FullHouse — Company website & CMS
+Centralized authentication integrations and RBAC across internal applications
 
-Built a company profile website and content management system end-to-end.
+Go, PostgreSQL, Docker
 
-Managed API and database implementation, VM provisioning, Nginx, and container deployment.
+Home Buyer & Home Owner
 
-Stack: React / Vite · TypeScript · Express.js · PostgreSQL · Nginx · Docker Compose
+Frontend architecture, database design, payment integration, and real-time updates
 
-<sub>These highlights describe professional contributions, including work delivered with teams. Company project source code is not included here.</sub>
+React, Next.js, Go, PostgreSQL, SSE
 
-The stack
+Amani Mobile & Back Office
 
-Area
+Banking features, administrative workflows, sensitive-data masking, and production support
 
-Technologies
+Flutter, React, Go, PostgreSQL
+
+FullHouse Website & CMS
+
+End-to-end development, content management, VM provisioning, and deployment
+
+React / Vite, Express.js, PostgreSQL, Nginx, Docker
+
+<sub>Professional project highlights include contributions delivered with teams. Company source code is not published here.</sub>
+
+💻 Tech Stack
+
+Languages
+
+
+
+
+
+
 
 Backend
 
-Go (Gin, Echo), Node.js (Express, NestJS, AdonisJS), PHP (Laravel)
+
+
+
+
+
+
 
 Frontend
 
-React, Next.js, TypeScript, JavaScript, Vue.js, TanStack Query, Zustand
 
-UI
 
-Material UI, Ant Design, Tailwind CSS
+
+
+
+
+
 
 Mobile
 
-Flutter, Dart, Riverpod, React Native
 
-Data
 
-PostgreSQL, SQL Server, MySQL, MongoDB, Redis
 
-Async & real-time
 
-RabbitMQ, BullMQ, Laravel Queue, SSE, WebSocket
+Data & Messaging
 
-Delivery
 
-Docker, Linux, Nginx, GitHub Actions, GitLab, Jenkins
 
-Observability
 
-Prometheus, Grafana, ELK Stack, Uptime Kuma
 
-Testing & security
 
-Jest, OWASP ZAP, API security, rate limiting
+
+
+
+DevOps & Observability
+
+
+
+
+
+
+
+
+
 
 <details>
-<summary><strong>More tools and integrations</strong></summary>
+<summary><strong>More tools, integrations & engineering practices</strong></summary>
 
-Storage & infrastructure: MinIO, Ansible, Terraform; familiarity with AWS and GCP.
+Infrastructure: MinIO, Docker Compose, Ansible, Terraform; familiarity with AWS and GCP.
 
-Authentication: JWT, OAuth, SSO, RBAC, and MFA.
+Security & identity: JWT, OAuth, SSO, RBAC, MFA, e-KYC integration, and rate limiting.
 
-Business integrations: Xendit, e-KYC, face verification, and KTP OCR.
+Real-time & async: SSE, WebSocket, Laravel Queue, schedulers, and cron jobs.
 
-Development workflow: Git, ESLint, Prettier, Husky, and lint-staged.
+Quality: Jest, OWASP ZAP, ESLint, Prettier, Husky, and lint-staged.
+
+Monitoring: ELK Stack, Node Exporter, Uptime Kuma, Dozzle, and Portainer.
+
+AI-assisted development: Claude, ChatGPT, Ollama, OpenRouter, and OpenCode.
 
 </details>
 
-How I work
+🛠️ How I Work
 
-Understand the workflow → design the data and API → build the interface → ship → monitor and improve.
+Understand the business flow → design the API and data model → build → deploy → monitor and improve.
 
-I enjoy working on the details that make software dependable: query performance, authorization boundaries, transactional consistency, background processing, and repeatable deployments.
+I care about clear interfaces, maintainable code, secure access, and software that stays dependable after deployment.
 
-Let's connect
+📊 GitHub Analytics
 
-Interested in discussing full-stack development, backend engineering, or banking technology?
+<div align="center">
 
-Connect on LinkedIn · Send me an email
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radenraflyy&amp;theme=github_dark" alt="Rafly's GitHub profile summary" />
+
+<br /><br />
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=radenraflyy&amp;theme=github_dark" alt="Languages across Rafly's repositories" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=radenraflyy&amp;theme=github_dark" alt="Rafly's GitHub statistics" />
+
+<br /><br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=radenraflyy&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=00000000&amp;color=38BDF8&amp;line=38BDF8&amp;point=ffffff&amp;area=true" alt="Rafly's GitHub contribution activity" />
+
+</div>
+
+<sub>These cards are provided by external services and may not reflect work in private repositories or other Git platforms.</sub>
+
+🌐 Let's Connect
+
+Happy to discuss full-stack development, backend systems, banking technology, and DevOps.
+
+<div align="center">
+
+<a href="mailto:radenraflypradanakusumah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Rafly" /></a>
+<a href="https://www.linkedin.com/in/raden-rafly-pradana-kusumah-108334220"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Rafly on LinkedIn" /></a>
+<a href="https://github.com/radenraflyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Rafly on GitHub" /></a>
+
+</div>
